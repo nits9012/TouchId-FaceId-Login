@@ -1,6 +1,6 @@
 # TouchId-FaceId-Login
 
-[![Watch the video](https://github.com/nits9012/TouchId-FaceId-Login/blob/main/FaceIdImage.png)](https://www.youtube.com/watch?v=zduuOlfySlM)
+[![Watch the video](Touch ID / Face ID )](https://www.youtube.com/watch?v=zduuOlfySlM)
 
 
 
