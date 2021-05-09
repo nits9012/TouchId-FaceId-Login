@@ -1,6 +1,6 @@
 # TouchId-FaceId-Login
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=zduuOlfySlM" title="Touch ID/Face ID Login" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://github.com/nits9012/TouchId-FaceId-Login/blob/main/FaceIdImage.png)](https://www.youtube.com/watch?v=zduuOlfySlM)
 
 
 
