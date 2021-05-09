@@ -1,4 +1,4 @@
 # TouchId-FaceId-Login
 
 
-<img src="FaceIdImage.png" width="800" height="500">
+<img src="FaceIdImage.png" width="400" height="500">
